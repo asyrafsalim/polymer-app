@@ -1,5 +1,5 @@
 # polymer-app
-learn polymer 3
+learn polymer 3, project hosted on [https://polymer-app-ab8b3.firebaseapp.com/](https://polymer-app-ab8b3.firebaseapp.com/)
 
 ## Start
 
@@ -8,6 +8,7 @@ learn polymer 3
   polymer build       # build project
   polymer lint        # run linter
   polymer test        # test project
+  firebase deploy     # deploy app to firebase
 ```
 
 ## Project structure
@@ -32,4 +33,3 @@ src/                   # app-specific elements
 sw-precache-config.js  # service worker pre-cache configuration
 test/                  # unit tests
 ```
-
