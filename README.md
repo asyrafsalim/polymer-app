@@ -1,4 +1,5 @@
 # polymer-app
+learn polymer 3
 
 ## Start
 
